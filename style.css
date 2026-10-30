@@ -1,0 +1,66 @@
+
+/* General styling */
+body {
+    margin: 0;
+    padding: 30px;
+    font-family: Arial, sans-serif;
+    background-color: #fce4ec;
+    color: #594653;
+}
+
+/* Main container */
+.container {
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 35px;
+    background-color: #fff9fb;
+    border-radius: 20px;
+    box-shadow: 0 5px 20px #d8b7c5;
+}
+
+/* Main heading */
+h1 {
+    text-align: center;
+    color: #c06c91;
+    font-size: 35px;
+}
+
+.subtitle {
+    text-align: center;
+    color: #a982a0;
+    margin-bottom: 35px;
+}
+
+/* Sections */
+.about, .hobbies, .goals {
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 15px;
+    background-color: #fceef3;
+}
+
+.hobbies {
+    background-color: #eee8fa;
+}
+
+.goals {
+    background-color: #e6f3ee;
+}
+
+/* Section headings */
+h2 {
+    color: #a66c91;
+}
+
+/* Lists */
+li {
+    padding: 7px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    margin-top: 30px;
+    color: #c06c91;
+    font-weight: bold;
+}
